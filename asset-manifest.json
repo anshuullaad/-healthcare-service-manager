@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anshuullaad/-healthcare-service-manager/static/css/main.fc6c53e3.css",
-    "main.js": "/anshuullaad/-healthcare-service-manager/static/js/main.decd9922.js",
-    "static/js/453.328ab2d4.chunk.js": "/anshuullaad/-healthcare-service-manager/static/js/453.328ab2d4.chunk.js",
-    "index.html": "/anshuullaad/-healthcare-service-manager/index.html",
-    "main.fc6c53e3.css.map": "/anshuullaad/-healthcare-service-manager/static/css/main.fc6c53e3.css.map",
-    "main.decd9922.js.map": "/anshuullaad/-healthcare-service-manager/static/js/main.decd9922.js.map",
-    "453.328ab2d4.chunk.js.map": "/anshuullaad/-healthcare-service-manager/static/js/453.328ab2d4.chunk.js.map"
+    "main.css": "/-healthcare-service-manager/static/css/main.fc6c53e3.css",
+    "main.js": "/-healthcare-service-manager/static/js/main.023910d7.js",
+    "static/js/453.328ab2d4.chunk.js": "/-healthcare-service-manager/static/js/453.328ab2d4.chunk.js",
+    "index.html": "/-healthcare-service-manager/index.html",
+    "main.fc6c53e3.css.map": "/-healthcare-service-manager/static/css/main.fc6c53e3.css.map",
+    "main.023910d7.js.map": "/-healthcare-service-manager/static/js/main.023910d7.js.map",
+    "453.328ab2d4.chunk.js.map": "/-healthcare-service-manager/static/js/453.328ab2d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc6c53e3.css",
-    "static/js/main.decd9922.js"
+    "static/js/main.023910d7.js"
   ]
 }
